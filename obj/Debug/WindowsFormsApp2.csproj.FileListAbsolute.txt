@@ -1,0 +1,13 @@
+D:\FileCPP\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\FileCPP\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\FileCPP\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\FileCPP\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\FileCPP\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\FileCPP\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\FileCPP\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\FileCPP\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\FileCPP\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\FileCPP\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\FileCPP\WindowsFormsApp2\bin\Debug\aa\WindowsFormsApp2.resources.dll
+D:\FileCPP\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.aa.resources
+D:\FileCPP\WindowsFormsApp2\obj\Debug\aa\WindowsFormsApp2.resources.dll

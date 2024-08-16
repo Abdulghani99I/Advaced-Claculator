@@ -1,0 +1,13 @@
+D:\FileCPP\Calculator\bin\Debug\WindowsFormsApp2.exe.config
+D:\FileCPP\Calculator\bin\Debug\WindowsFormsApp2.exe
+D:\FileCPP\Calculator\bin\Debug\WindowsFormsApp2.pdb
+D:\FileCPP\Calculator\bin\Debug\aa\WindowsFormsApp2.resources.dll
+D:\FileCPP\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\FileCPP\Calculator\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\FileCPP\Calculator\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\FileCPP\Calculator\obj\Debug\WindowsFormsApp2.Form1.aa.resources
+D:\FileCPP\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\FileCPP\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\FileCPP\Calculator\obj\Debug\aa\WindowsFormsApp2.resources.dll
+D:\FileCPP\Calculator\obj\Debug\WindowsFormsApp2.exe
+D:\FileCPP\Calculator\obj\Debug\WindowsFormsApp2.pdb
